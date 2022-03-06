@@ -24,8 +24,8 @@ Although the dateset overall shows June to have higher highs than December and n
 ### Additional Queries
 Below is an example of why additional queries may be beneficial. June's temperature reached its lowest point in 2016. Year-to-year comparisons could reveal whether June is trending colder.
 
-[Jun_to_Jun2016]Resources/Jun_to_Jun2016.png
+![Jun_to_Jun2016]Resources/Jun_to_Jun2016.png
 
 Similarly, December's 2016 max temperature is notably lower than December's max overall.
 
-[Dec_to Dec2016]Resources/Dec_to_Dec2016.png
+![Dec_to Dec2016]Resources/Dec_to_Dec2016.png

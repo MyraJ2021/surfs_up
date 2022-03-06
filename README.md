@@ -1,9 +1,9 @@
 # Surfs_Up Analysis
 ## Overview of Analysis
 ### Purpose
-In this analysis, several years of Oahu temperature data for the months of June and December are statistically compared to assess sustainability of a possible business venture.
+In this analysis, statistics for Oahu temperature data for the months of June and December were calculated for a multi-year period. These stats were compared in order to assess sustainability for a prospective business venture.
 ### Background
-Surfing enthusiast W. Avy expressed an interest in opening a surf and ice cream shop in the Oahu area. Mr. Avy has requested additional temperature trends information to help inform his decision. 
+Surfing enthusiast W. Avy expressed an interest in opening a surf and ice cream shop in the Oahu area. This analysis provides additional temperature trend information at Mr. Avy's request to help inform possible pending buisness decisions. 
 
 
 ## Results: Key Weather Differences
